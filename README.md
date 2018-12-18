@@ -12,10 +12,12 @@ animales
     
   <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png">
     <a href="https://es.wikipedia.org/wiki/Oryctolagus_cuniculus"> mas sobre conejos </a>
+    </body>
     
+   <body>
     
   <h1> leones </h1> 
   <img src="http://www.estudiantes.info/ciencias_naturales/images/leonpadre2.jpg">
 <a href="https://es.wikipedia.org/wiki/Panthera_leo"> mas sobre leones </a>
   
-  
+</body>
