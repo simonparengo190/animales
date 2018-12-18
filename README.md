@@ -5,7 +5,7 @@ animales
   <title>ANIMALES</title> 
   </head>
   <body> 
-    <h1>Los Animales</h1>
+    <h1> Los Animales </h1>
     <p>imagenes y descripcion de animales</p>
     <h1> conejos </1>
     
