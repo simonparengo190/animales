@@ -11,10 +11,6 @@ animales
 
 <body> 
   
-  <img src="https://4.bp.blogspot.com/-Fdrm64Ggod4/Whv24WUucjI/AAAAAAAAAAg/06nVEAkwlYoca61FNoUy5B1bxdfHcYSyQCLcBGAs/w1200-h630-p-k-no-nu/cabalo.jpg">
-  
-  <a href="https://es.wikipedia.org/wiki/Equus_ferus_caballus"> mas sobre caballos </a> 
-  
   
   
   <h1> ¿QUE SON LOS ANIMALES? </h1> 
@@ -37,7 +33,7 @@ LEON
  un ejemplo de un animal herbiboro es el oso panda 
  
  <img src="https://www.queanimal.com/wp-content/uploads/2017/10/animales-herbivoros.jpg">
- <a href="https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca> mas sobre los osos pandas </a>
+ <a href="https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca"> mas sobre los osos pandas </a>
   
   
   
