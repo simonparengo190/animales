@@ -35,6 +35,10 @@ LEON
  <img src="https://www.queanimal.com/wp-content/uploads/2017/10/animales-herbivoros.jpg">
  <a href="https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca"> mas sobre los osos pandas </a>
   
+  un ejemplo de omnivoros es el cerdo
+  
+  <img src="https://misanimales.com/wp-content/uploads/2015/03/cerdo.jpg"> 
+  <a href="https://es.wikipedia.org/wiki/Sus_scrofa_domestica"> mas sobre los cerdos </a>
   
   
   
