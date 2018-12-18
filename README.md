@@ -9,7 +9,7 @@ animales
     <p>imagenes y descripcion de animales</p>
   <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png">
     <a href="https://es.wikipedia.org/wiki/Oryctolagus_cuniculus"> mas sobre conejos </a>
-    <img src="https://www.google.com/search?q=leon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB4MDWkajfAhWKqZAKHVTuAdIQ_AUIDigB&biw=1360&bih=657#imgrc=isdbCWiKxG98KM:">
+    <img src="<a class="irc_mil i3597" rel="noopener" jsaction="mousedown:irc.rl;focus:irc.rl" data-noload="" target="_blank" tabindex="0" href="http://programalaesfera.blogspot.com/2013/04/el-miedo-al-papel-en-blanco.html" data-ved="2ahUKEwimwJOkl6jfAhVEgJAKHQFgAtcQjRx6BAgBEAU"><img class="irc_mi" src="http://victorjsanz.es/wp-content/uploads/2013/04/Papel-en-blanco.jpg" alt="Imagen relacionada" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="260" height="353" style="margin-top: 0px;"></a>">
     <a href="https://es.wikipedia.org/wiki/Panthera_leo"> mas sobre leones </a>
   
   
