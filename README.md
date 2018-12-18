@@ -15,7 +15,7 @@ animales
     
     
   <h1> leones </h1> 
-  <img src=" <img class="irc_mi" src="http://www.estudiantes.info/ciencias_naturales/images/leonpadre2.jpg">
+  <img src="http://www.estudiantes.info/ciencias_naturales/images/leonpadre2.jpg">
 <a href="https://es.wikipedia.org/wiki/Panthera_leo"> mas sobre leones </a>
   
   
