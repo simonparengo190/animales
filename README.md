@@ -37,6 +37,7 @@ LEON
  un ejemplo de un animal herbiboro es el oso panda 
  
  <img src="https://www.queanimal.com/wp-content/uploads/2017/10/animales-herbivoros.jpg">
+ <a href="https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca> mas sobre los osos pandas </a>
   
   
   
